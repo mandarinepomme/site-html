@@ -1,1 +1,8 @@
-
+h1 {
+  color: orange;
+  background-color: purple;
+  border: 3px solid green;
+}
+p { 
+  color: darkblue;
+}
