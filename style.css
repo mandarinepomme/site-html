@@ -2,8 +2,8 @@ h1 {
   color: orange;
   background-color: purple;
 
-  border: 1px green;
+  border: 1px solid black;
 }
 p { 
-  color: pink;
+  color: red;
 }
