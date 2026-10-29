@@ -6,7 +6,6 @@ h1 {
   border: 1px solid green;
 }
 p { 
-  text-align: justify;
-  text-align: center;
+  text-align: center-justify;
   color: black;
 }
