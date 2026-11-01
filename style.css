@@ -47,3 +47,17 @@ p {
     height: 3px;
     background-color: white;
 }
+.bouton-accueil {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #0066cc;
+  color: #ffffff;
+  text-decoration: none;
+  border-radius: 5px;
+  font-weight: bold;
+  transition: background-color 0.3s ease;
+}
+
+.bouton-accueil:hover {
+  background-color: #004d99;
+}
