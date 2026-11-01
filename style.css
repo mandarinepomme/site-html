@@ -1,25 +1,15 @@
 h1 {
-  text-align: center;
-  color: black;
-  background-color: green;
+    text-align: center;
+    color: black;
+    background-color: green;
     font-size: 2.5rem;
-    margin-bottom: 10px;
 }
+
 p {
     text-align: center;
     font-size: 1.2rem;
-    margin-bottom: 30px;
 }
-}
-body {
-    font-family: 'Segoe UI', Georgia, serif;
-    background-color: var(--beige-lin);
-    color: var(--anthracite);
-    line-height: 1.7;
-    display: flex;
-    flex-direction: column;
-    min-height: 100vh;
-}
+
 .navbar {
     display: flex;
     justify-content: space-between;
