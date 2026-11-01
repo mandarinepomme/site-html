@@ -11,14 +11,6 @@ p {
     padding: 0;
     box-sizing: border-box;
 }
-
-:root {
-    --vert-foret: #2d4a43;
-    --vert-sauge: #6e8e76;
-    --beige-lin: #f5f2eb;
-    --blanc-pur: #ffffff;
-    --anthracite: #2b2b2b;
-}
 body {
     font-family: 'Segoe UI', Georgia, serif;
     background-color: var(--beige-lin);
